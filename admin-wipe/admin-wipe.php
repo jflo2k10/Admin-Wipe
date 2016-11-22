@@ -3,7 +3,7 @@
 * Plugin Name: Admin Wipe
 * Plugin URI: http://www.jimfloss.com
 * Description: Wipe the Admin Panel
-* Version: 1.0 
+* Version: 1.0.0
 * Author: Jim
 * Author URI: http://www.jimfloss.com
 * License: GPL2
